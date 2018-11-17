@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+#log4j
+log4j2.xml
